@@ -9,6 +9,12 @@ Based upon a [Vuex version 1 tutorial](https://coligo.io/learn-vuex-by-building-
 
 Using the Vuex 2.0 documentation - in particular, the [Core Concepts section](https://vuex.vuejs.org/en/core-concepts.html) - I adapted and updated the tutorial code.
 
+A version of this code is deployed to Surge here:
+
+https://vuex-notes-app.surge.sh
+
+FYI, [Surge](https://surge.sh) is excellent
+
 ## Build Setup
 
 ``` bash
